@@ -1,0 +1,11 @@
+.text {
+    display: inline-block;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.btn {
+    background-color: #fff;
+    border: 1px solid #d0cece;
+    border-radius: 4px;
+}
